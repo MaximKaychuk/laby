@@ -61,5 +61,5 @@ def registration():
 #render_template = отображает шаблон template_name_or_list из папки шаблонов
 app.run()
 
-
+#Здесь был Евгений
 
